@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  MenuView.swift
 //  Menu
 //
 //  Created by Şakir Yılmaz ÖĞÜT on 4.03.2025.
